@@ -1,4 +1,4 @@
-BXP91274# GitHub Copilot CLI
+MiBXP91274# GitHub Copilot CLI
 
 The power of GitHub Copilot, now in your terminal.
 
